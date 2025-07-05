@@ -2,6 +2,8 @@
 
 This project is a simple implementation of the **Markov Chain Monte Carlo (MCMC)** method using Python. It aims to demonstrate how MCMC techniques—such as the Metropolis-Hastings algorithm—can be used to sample from complex probability distributions, particularly when direct sampling is difficult or impossible.
 
+Use Cases: Bayesian inference, statistical modeling.
+
 ## 🚀 Live Web App (Streamlit)
 
 You can try the app live via Streamlit here:
